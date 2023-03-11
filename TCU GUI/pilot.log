@@ -1,0 +1,5 @@
+2023-03-03 20:19:45,510 | main.py:34:Socket_try() [ERROR] establishing serial connection!
+2023-03-03 20:20:19,656 | main.py:34:Socket_try() [ERROR] establishing serial connection!
+2023-03-06 21:13:33,688 | main.py:34:Socket_try() [ERROR] establishing serial connection!
+2023-03-06 21:16:22,087 | main.py:34:Socket_try() [ERROR] establishing serial connection!
+2023-03-06 21:20:53,626 | main.py:34:Socket_try() [ERROR] establishing serial connection!
